@@ -50,14 +50,15 @@
 
 ##
 
-<h1 align=center>
-  Project - wordwave
-  
+<h1 align="center">
+  <a href="https://www.wordwave.xyz/">Project - wordwave</a>
 </h1>
-<div align=center>
 
+<div align=center>
+  <img src="https://github.com/dks044/dks044/assets/74749417/61737691-c31b-489c-8709-a73f73fadff2" alt="메인화면">
 </div>
 
+##
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=dks044&amp;show_icons=true&amp;theme=radical" alt="AJN&#39;s GitHub stats">
