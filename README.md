@@ -51,7 +51,7 @@
 ##
 
 <h1 align="center">
-  <a href="https://www.wordwave.xyz/">Project - wordwave</a>
+  <a href="https://www.wordwave.xyz/">Project - WORDWAVE</a>
 </h1>
 
 <div align=center>
