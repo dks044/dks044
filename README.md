@@ -9,10 +9,10 @@
 </h4>
 <br><br><br><br>
 
-<div align=center><h1>🛠 TECH STACKS 🛠</h1></div>
+<div align=center><h1>🛠 TECH STACKS </h1></div>
 <div align=center>
   <div align=center>
-    <h3>⚙️ Backend ⚙️</h3>
+    <h3>⚙️ Backend ⚙</h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/JPA-grey?style=for-the-badge&logo=databricks&logoSize=auto">
@@ -28,7 +28,7 @@
   </div>
   <br>
   <div align=center>
-    <h3>🖌 Frontend 🖌</h3>
+    <h3>🖌 Frontend </h3>
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/styled_components-pink?style=for-the-badge&logo=styledcomponents&logoColor=white&color=%23DB7093">
     <img alt="Static Badge" src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=white&color=%23764ABC">
