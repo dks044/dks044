@@ -12,7 +12,7 @@
 <div align=center><h1>🛠 TECH STACKS </h1></div>
 <div align=center>
   <div align=center>
-    <h3>⚙️ Backend ⚙</h3>
+    <h3>⚙️ Backend </h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/JPA-grey?style=for-the-badge&logo=databricks&logoSize=auto">
@@ -41,7 +41,7 @@
   </div>
   <br>
   <div align=center>
-    <h3>🔧 Tool 🔧</h3>
+    <h3>🔧 Tool </h3>
     <img alt="Static Badge" src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white&color=%23000000">
     <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
   </div>
