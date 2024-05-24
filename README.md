@@ -1,13 +1,7 @@
 
 <img src="https://github.com/dks044/dks044/assets/74749417/f624551e-4569-4a81-bdb4-1c99da769932" alt="header">
 
-<h3 align=center>
-  개발자 안종윤입니다.
-</h3>
-<h4 align=center>
-  저는 늘 활동적이고, 실패를 성장의 발판으로 삼으며, 새로운 도전을 마다하지 않는 개발자입니다.<br><br>기술의 세계에서 끊임없이 배우고, 탐험하며, 혁신을 추구하는 것을 즐깁니다.
-</h4>
-<br><br><br><br>
+<br><br>
 
 <div align=center><h1>🛠 TECH STACKS </h1></div>
 <div align=center>
