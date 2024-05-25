@@ -49,7 +49,7 @@
 </h1>
 
 <div align=center>
-  <img src="https://github.com/dks044/dks044/assets/74749417/61737691-c31b-489c-8709-a73f73fadff2" alt="메인화면">
+  <img src="https://github.com/dks044/dks044/assets/74749417/ef751d5d-44f8-4b7b-a190-ff3fa682c65b" alt="홈페이지">
 </div>
 
 ##
