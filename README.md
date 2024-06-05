@@ -53,6 +53,18 @@
 </div>
 
 ##
+<br><br>
+##
+
+<h1 align="center">
+  <a href="https://github.com/dks044/SYNTHWAVE">ToyProject - SYNTHWAVE</a>
+</h1>
+
+<div align=center>
+  <img src="https://github.com/dks044/dks044/assets/74749417/b6c3645f-1866-41bd-83a2-d033878fa88a" alt="홈페이지">
+</div>
+
+##
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=dks044&amp;show_icons=true&amp;theme=radical" alt="AJN&#39;s GitHub stats">
