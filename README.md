@@ -46,6 +46,7 @@
 
 <h1 align="center">
   <a href="https://www.wordwave.xyz/">Project - WORDWAVE</a>
+  <h4>(배포 중단)</h4>
 </h1>
 
 <div align=center>
