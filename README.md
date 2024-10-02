@@ -1,7 +1,4 @@
 
-<img src="https://github.com/dks044/dks044/assets/74749417/f624551e-4569-4a81-bdb4-1c99da769932" alt="header">
-
-<br><br>
 
 <div align=center><h1>🛠 TECH STACKS </h1></div>
 <div align=center>
