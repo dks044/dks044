@@ -42,8 +42,11 @@
 ##
 
 <h1 align="center">
-  <a href="https://www.wordwave.xyz/">Project - WORDWAVE</a>
+  <a>Project - WORDWAVE</a>
   <h4>(배포 중단)</h4>
+  <div>
+    <img src="https://github.com/dks044/dks044/assets/74749417/ef751d5d-44f8-4b7b-a190-ff3fa682c65b" alt="홈페이지">
+  </div>
 </h1>
 
 ##
