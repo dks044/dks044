@@ -46,14 +46,6 @@
   <h4>(배포 중단)</h4>
 </h1>
 
-<div align=center>
-  <img src="https://github.com/dks044/dks044/assets/74749417/ef751d5d-44f8-4b7b-a190-ff3fa682c65b" alt="홈페이지">
-</div>
-
-<div align=center>
-  <img src="https://github.com/dks044/dks044/assets/74749417/b6c3645f-1866-41bd-83a2-d033878fa88a" alt="홈페이지">
-</div>
-
 ##
 
 <div align=center>
