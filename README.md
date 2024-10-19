@@ -19,8 +19,8 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white">
     <br>
-      <img alt="Static Badge" src="https://img.shields.io/badge/AWS%20EC2-orange?style=for-the-badge&logo=amazonec2&logoSize=auto">
-      <img alt="Static Badge" src="https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/aws_ec2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white&color=%232088FF">
   </div>
   <br>
