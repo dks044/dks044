@@ -65,8 +65,8 @@
 <div>
   <h1 align="center"><a href="https://amuna.vercel.app/">Project - AMUNA</a></h1>
   <div align=center>
-    <img width="371" alt="image" src="https://github.com/user-attachments/assets/7f199b6e-d1f2-4132-be41-ff39b79703ef">
-    <img width="464" alt="image" src="https://github.com/user-attachments/assets/3928c615-6123-49bb-bdbe-25870b155fba">
+    <img width="300" alt="image" src="https://github.com/user-attachments/assets/7f199b6e-d1f2-4132-be41-ff39b79703ef">
+    <img width="300" alt="image" src="https://github.com/user-attachments/assets/3928c615-6123-49bb-bdbe-25870b155fba">
   </div>
 </div>
 
