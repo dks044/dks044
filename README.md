@@ -1,9 +1,9 @@
 
 <div align=center><h1>🥊 Introduce </h1></div>
 <div>
-  <p>NextJS(TypeScript) + MongoDB + Redis 조합으로 서비스 전반을 만들고 배포할 수 있는 프론트엔드 개발자 입니다.</p>
-  <p>Java(SpringBoot) + React 조합으로 서비스 전반을 만들고, 배포하고, 운영을 해보며 백엔드 아키텍처의 이해도가 있고,</p>
-  <p>Docker+ Github Actions + EC2를 통해 CI|CD 환경을 구성해본 경험이 있습니다.</p>
+  <p><strong>NextJS(TypeScript) + MongoDB + Redis</strong> 조합으로 서비스 전반을 만들고 배포할 수 있는 프론트엔드 개발자 입니다.</p>
+  <p><strong>Java(SpringBoot) + React </strong>조합으로 서비스 전반을 만들고, 배포하고, 운영을 해보며 백엔드 아키텍처의 이해도가 있고,</p>
+  <p><strong>Docker+ Github Actions + EC2</strong>를 통해 CI|CD 환경을 구성해본 경험이 있습니다.</p>
 </div>
 <br>
 <div align=center><h1>📚 TECH STACKS </h1></div>
