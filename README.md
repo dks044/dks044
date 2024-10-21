@@ -18,6 +18,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white">
     <br>
       <img alt="Static Badge" src="https://img.shields.io/badge/aws_ec2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -26,7 +27,7 @@
   <br>
   <div>
     <h3>🖌 Frontend </h3>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/react-%230088CC?style=for-the-badge&logo=react&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/styled_components-pink?style=for-the-badge&logo=styledcomponents&logoColor=white&color=%23DB7093">
     <img alt="Static Badge" src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=white&color=%23764ABC">
     <img alt="Static Badge" src="https://img.shields.io/badge/Redux_Saga-black?style=for-the-badge&logo=reduxsaga&logoColor=white&color=%23764ABC">
