@@ -1,5 +1,11 @@
 
-
+<div align=center><h1>🥊 Introduce </h1></div>
+<div>
+  <p>NextJS(TypeScript) + MongoDB + Redis 조합으로 서비스 전반을 만들고 배포할 수 있는 프론트엔드 개발자 입니다.</p>
+  <p>Java(SpringBoot) + React 조합으로 서비스 전반을 만들고, 배포하며 백엔드 아키텍처의 이해도가 있고,</p>
+  <p>Docker+ Github Actions + EC2를 통해 CI|CD 환경을 구성해본 경험이 있습니다.</p>
+</div>
+<br>
 <div align=center><h1>📚 TECH STACKS </h1></div>
 <div>
   <div>
@@ -24,7 +30,6 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white&color=%232088FF">
   </div>
-  <br>
   <div>
     <h3>🖌 Frontend </h3>
     <img alt="Static Badge" src="https://img.shields.io/badge/react-%230088CC?style=for-the-badge&logo=react&logoColor=white">
@@ -39,7 +44,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Zustand-%23FF3621?style=for-the-badge&logo=databricks&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   </div>
-  <br>
   <div>
     <h3>🔧 Tool </h3>
     <div>
@@ -47,7 +51,6 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
     </div>
   </div>
-    <br>
   <div>
     <h3> Other </h3>
     <img alt="Static Badge" src="https://img.shields.io/badge/pusher-%23300D4F?style=for-the-badge&logo=pusher&logoColor=white">
