@@ -64,9 +64,6 @@
 </div>
 <br><br>
 
-##
-
-
 <div>
   <h1 align="center"><a href="https://amuna.vercel.app/">Project - AMUNA</a></h1>
   <div align=center>
