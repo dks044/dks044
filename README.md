@@ -49,6 +49,7 @@
     <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white&color=%23000000">
       <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+      <img alt="Static Badge" src="https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white">
     </div>
   </div>
   <div>
