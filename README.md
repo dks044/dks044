@@ -57,9 +57,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/pusher-%23300D4F?style=for-the-badge&logo=pusher&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/cloudinary-%233448C5?style=for-the-badge&logo=cloudinary&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white">
-    <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white&color=%23000000">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
   </div>
 </div>
 <br><br>
