@@ -57,6 +57,13 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/pusher-%23300D4F?style=for-the-badge&logo=pusher&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/cloudinary-%233448C5?style=for-the-badge&logo=cloudinary&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/amazon_s3-%23569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/amazon_cloud_front-%23E95420?style=for-the-badge&logo=dask&logoColor=white">
+  </div>
+    <div>
+    <h3> Studying </h3>
+    <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/react_native_cli-%230088?style=for-the-badge&logo=react&logoColor=white">
   </div>
 </div>
 <br><br>
