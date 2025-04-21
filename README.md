@@ -1,17 +1,28 @@
 
 <div align=center><h1>🥊 Introduce </h1></div>
 <div>
-  <p>매일 운동하는 운동 좋아하는 개발자 입니다.</p>
+  <p align="center">매일 운동하는 운동 좋아하는 개발자 입니다.</p>
 </div>
 <br>
 <!-- <div align=center><h1>📚 TECH STACKS </h1></div> -->
 <div>
   <div>
     <h3>✨ Language </h3>
-    <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23FC4C02?style=for-the-badge&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/html5-%233178C6?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
+    <img alt="Static Badge" src="https://img.shields.io/badge/css-%233178C6?style=for-the-badge&logo=html5&logoColor=white&color=%23663399">
     <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%23FC4C02?style=for-the-badge&logoColor=white">
     <br>
+    <div>
+      <h3>🎨 Frontend </h3>
+      <img alt="Static Badge" src="https://img.shields.io/badge/react-%230088CC?style=for-the-badge&logo=react&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=white&color=%23764ABC">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Zustand-%23FF3621?style=for-the-badge&logo=databricks&logoColor=white">
+      <br>
+      <img alt="Static Badge" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    </div>
     <h3>⚙️ Backend </h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -27,15 +38,6 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/aws_ec2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=white&color=%232088FF">
-  </div>
-  <div>
-    <h3>🖌 Frontend </h3>
-    <img alt="Static Badge" src="https://img.shields.io/badge/react-%230088CC?style=for-the-badge&logo=react&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=white&color=%23764ABC">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Zustand-%23FF3621?style=for-the-badge&logo=databricks&logoColor=white">
-    <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   </div>
   <div>
     <h3> Other </h3>
