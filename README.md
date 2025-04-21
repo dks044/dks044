@@ -15,7 +15,7 @@
     <h3>⚙️ Backend </h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SpringSecurity-brightgreen?style=for-the-badge&logo=springsecurity&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=databricks&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoSize=auto">
     <br>
