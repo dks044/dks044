@@ -2,6 +2,10 @@
 <div align=center><h1>🥊 Introduce </h1></div>
 <div>
   <p align="center">매일 운동하는 운동 좋아하는 개발자 입니다.</p>
+  <div align="center">
+    <p><img width="600" src="https://github.com/user-attachments/assets/2054f7cd-61c8-4c3f-9f88-c88e3e6b39a0" alt="Image"> </p> 
+  </div>
+  
 </div>
 <br>
 <!-- <div align=center><h1>📚 TECH STACKS </h1></div> -->
